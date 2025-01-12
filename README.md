@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilias72
-- 👀 I’m interested in programming lego mindstorms 51515 and codewars
+- 👀 I’m interested in programming and codewars
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
